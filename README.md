@@ -87,5 +87,4 @@ Open Case Detail page
 Update status + follow-up notes
 
 Confirm that updates appear immediately
-
 ✔ The project is ready to run and easy to set up on any machine.
